@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Currency Detector\nFor blind people\nThis app supports only Pakistani currency</string>
+    <string name="action_settings">Settings</string>
+    <string name="note_detection">Note Detection</string>
+    <string name="document_reading">Document Reading</string>
+    <string name="vision_for_visually_impaired">Vision For Visually Impaired</string>
+    <string name="final_year_project">Final Year Project</string>
+</resources>
